@@ -26,27 +26,6 @@ fname = '/Users/jeanmensa/My Drive (jmensa@wcs.org)/WCS Tanzania Marine Program/
 cost_grid = gpd.read_file(fname)
 
 
-''' effort for Misali is calculated from catch surveys and visitation per fishing ground '''
-
-# effort per fishing ground
-fname = '/Users/jeanmensa/My Drive (jmensa@wcs.org)/WCS Tanzania Marine Program/Data/Catch_data/Kobo/Fish_Catch_Survey_-_latest_version_-_False_-_2022-10-26-08-15-15.xlsx'
-trips = pd.read_excel(fname, engine = 'openpyxl', sheet_name=0)
-
-# fishing ground
-fname = '/Users/jeanmensa/My Drive (jmensa@wcs.org)/WCS Tanzania Marine Program/Data/Pemba/fishery_mapping/fishing gear shapefiles/all_gears_clean.shp'
-fishing_ground = gpd.read_file(fname).to_crs({'init': 'epsg:21037'})
-fishing_ground['area'] = fishing_ground.geometry.area
-fishing_ground = fishing_ground.to_crs({'init': 'epsg:4326'})
-
-# effort
-fishing_effort = pd.merge(fishing_ground,trips.groupby('Fishing_Trip/fishing_ground_name').count()['_id'],left_on='Name', right_on='Fishing_Trip/fishing_ground_name')
-fishing_effort = fishing_effort.rename(columns={'_id':'trips'})
-
-# I think I need this before rasterizing
-fishing_effort['tripsqkm']=fishing_effort['trips']/fishing_effort['area']*1e6
-#fishing_effort['tripsqkm']=fishing_effort['trips']#/fishing_effort['area']*1e6
-
-
 ''' effort in TUMCA I calculate from raw FPM results and perceived levels of effort '''
 
 gears = ['Jarife','Juya','Madema','Mishipi','Mtando','Pweza']
