@@ -1,0 +1,635 @@
+        Marxan v 4.0.6 
+
+   Spatial Prioritization via Annealing
+
+   Coded by Ian Ball, modified by Matthew Watts
+   Written by Ian Ball and Hugh Possingham
+
+   Marxan website
+
+https://marxansolutions.org/
+
+
+Entering in the data files 
+   There are 1490 Planning units.
+  1490 Planning Unit names read in 
+  6 species read in 
+  2830 connections entered 
+8940 conservation values counted, 8940 big matrix size, 100% density of matrix 
+Time passed so far is 0 secs 
+
+Pre-processing Section. 
+Running multithreaded over number of threads: 8
+Runs will be printed as they complete, and may not be in order due to parallelisation.
+
+Run 1: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 1 Init: Value 1402.13 Cost 2.13166 PUs 755 Connection 1400 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 1 ThermalAnnealing: Value 56.6232 Cost 0.623245 PUs 205 Connection 56 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 1 Iterative Improvement: Value 56.6232 Cost 0.623245 PUs 205 Connection 56 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 1 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 7: Using Calculated Tinit = 234.417 Tcool = 0.998786
+Run 7 Init: Value 1399.95 Cost 1.94722 PUs 773 Connection 1398 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 7 ThermalAnnealing: Value 49.1218 Cost 1.12178 PUs 325 Connection 48 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 7 Iterative Improvement: Value 49.1218 Cost 1.12178 PUs 325 Connection 48 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 7 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 8: Using Calculated Tinit = 236.417 Tcool = 0.99843
+Run 8 Init: Value 1426.97 Cost 1.96894 PUs 724 Connection 1425 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 8 ThermalAnnealing: Value 33.048 Cost 2.04796 PUs 659 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 8 Iterative Improvement: Value 33.048 Cost 2.04796 PUs 659 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 8 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 3: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 3 Init: Value 1421.16 Cost 2.15921 PUs 765 Connection 1419 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 3 ThermalAnnealing: Value 55.3377 Cost 2.33766 PUs 1041 Connection 53 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 3 Iterative Improvement: Value 55.3377 Cost 2.33766 PUs 1041 Connection 53 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 3 is finished (out of 100). 
+Run 2: Using Calculated Tinit = 230.417 Tcool = 0.99885
+Run 2 Init: Value 1409.21 Cost 2.21473 PUs 775 Connection 1407 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 2 ThermalAnnealing: Value 35.2251 Cost 2.22507 PUs 713 Connection 33 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 2 Iterative Improvement: Value 35.2233 Cost 2.22328 PUs 712 Connection 33 Missing 0 Shortfall 0 Penalty 0 MPM 1
+
+Run 6: Using Calculated Tinit = 230.79 Tcool = 0.998189
+Run 6 Init: Value 1466.9 Cost 1.89715 PUs 746 Connection 1465 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 6 ThermalAnnealing: Value 44.9546 Cost 0.954571 PUs 442 Connection 44 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 6 Iterative Improvement: Value 44.9546 Cost 0.954571 PUs 442 Connection 44 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Time passed so far is 0 secs 
+Run 2 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 4: Using Calculated Tinit = 236.417 Tcool = 0.998785
+Run 4 Init: Value 1368.13 Cost 2.12832 PUs 729 Connection 1366 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 4 ThermalAnnealing: Value 42.9352 Cost 0.935162 PUs 543 Connection 42 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 4 Iterative Improvement: Value 42.9352 Cost 0.935162 PUs 543 Connection 42 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 6 is finished (out of 100). Time passed so far is 0 secs 
+Run 4 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 5: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 5 Init: Value 1387.11 Cost 2.11207 PUs 748 Connection 1385 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 5 ThermalAnnealing: Value 14.2627 Cost 2.26272 PUs 1149 Connection 12 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 5 Iterative Improvement: Value 14.2627 Cost 2.26272 PUs 1149 Connection 12 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 5 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 9: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 9 Init: Value 1427.91 Cost 1.91353 PUs 751 Connection 1426 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 9 ThermalAnnealing: Value 34.1399 Cost 1.13989 PUs 410 Connection 33 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 9 Iterative Improvement: Value 34.1399 Cost 1.13989 PUs 410 Connection 33 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 9 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 13: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 13 Init: Value 1393.23 Cost 2.23222 PUs 752 Connection 1391 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 13 ThermalAnnealing: Value 65.8099 Cost 0.809912 PUs 301 Connection 65 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 13 Iterative Improvement: Value 65.8099 Cost 0.809912 PUs 301 Connection 65 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 13 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 12: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 12 Init: Value 1407.85 Cost 1.85369 PUs 727 Connection 1406 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 12 ThermalAnnealing: Value 36.7301 Cost 0.73014 PUs 440 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 12 Iterative Improvement: Value 36.7301 Cost 0.73014 PUs 440 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 12 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 10: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 10 Init: Value 1413.9 Cost 1.8973 PUs 748 Connection 1412 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 10 ThermalAnnealing: Value 92.9408 Cost 0.940773 PUs 356 Connection 92 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 10 Iterative Improvement: Value 92.9408 Cost 0.940773 PUs 356 Connection 92 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 10 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 11: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 11 Init: Value 1399.05 Cost 2.053 PUs 732 Connection 1397 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 11 ThermalAnnealing: Value 38.9009 Cost 1.90088 PUs 684 Connection 37 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 11 Iterative Improvement: Value 38.9009 Cost 1.90088 PUs 684 Connection 37 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 11 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 15: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 15 Init: Value 1423.93 Cost 1.92561 PUs 728 Connection 1422 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 15 ThermalAnnealing: Value 80.4954 Cost 1.4954 PUs 787 Connection 79 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 15 Iterative Improvement: Value 80.4954 Cost 1.4954 PUs 787 Connection 79 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 15 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 16: Using Calculated Tinit = 234.417 Tcool = 0.998431
+Run 16 Init: Value 1463.19 Cost 2.19452 PUs 727 Connection 1461 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 16 ThermalAnnealing: Value 63.1979 Cost 1.19794 PUs 343 Connection 62 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 16 Iterative Improvement: Value 63.1979 Cost 1.19794 PUs 343 Connection 62 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 16 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 14: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 14 Init: Value 1442.31 Cost 2.30501 PUs 758 Connection 1440 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 14 ThermalAnnealing: Value 89.1523 Cost 1.15233 PUs 466 Connection 88 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 14 Iterative Improvement: Value 89.1523 Cost 1.15233 PUs 466 Connection 88 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 14 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 17: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 17 Init: Value 1426.22 Cost 2.22099 PUs 770 Connection 1424 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 17 ThermalAnnealing: Value 29.2127 Cost 2.21275 PUs 675 Connection 27 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 17 Iterative Improvement: Value 29.2127 Cost 2.21275 PUs 675 Connection 27 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 17 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 18: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 18 Init: Value 1456.82 Cost 1.82292 PUs 725 Connection 1455 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 18 ThermalAnnealing: Value 79.3327 Cost 1.33274 PUs 538 Connection 78 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 18 Iterative Improvement: Value 79.3327 Cost 1.33274 PUs 538 Connection 78 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 18 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 19: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 19 Init: Value 1425.09 Cost 2.08633 PUs 789 Connection 1423 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 19 ThermalAnnealing: Value 82.8381 Cost 2.83805 PUs 1118 Connection 80 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 19 Iterative Improvement: Value 82.8381 Cost 2.83805 PUs 1118 Connection 80 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 19 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 20: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 20 Init: Value 1427.82 Cost 1.81691 PUs 745 Connection 1426 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 20 ThermalAnnealing: Value 99.5841 Cost 1.5841 PUs 715 Connection 98 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 20 Iterative Improvement: Value 99.5841 Cost 1.5841 PUs 715 Connection 98 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 20 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 21: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 21 Init: Value 1441.11 Cost 2.11205 PUs 742 Connection 1439 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 21 ThermalAnnealing: Value 45.8788 Cost 1.87881 PUs 497 Connection 44 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 21 Iterative Improvement: Value 45.8788 Cost 1.87881 PUs 497 Connection 44 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 21 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 23: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 23 Init: Value 1432.09 Cost 2.09305 PUs 760 Connection 1430 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 23 ThermalAnnealing: Value 30.057 Cost 1.05704 PUs 385 Connection 29 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 23 Iterative Improvement: Value 30.057 Cost 1.05704 PUs 385 Connection 29 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 23 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 22: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 22 Init: Value 1455.1 Cost 2.10405 PUs 712 Connection 1453 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 22 ThermalAnnealing: Value 33.1616 Cost 3.16158 PUs 1056 Connection 30 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 22 Iterative Improvement: Value 33.1616 Cost 3.16158 PUs 1056 Connection 30 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 22 is finished (out of 100). Time passed so far is 0 secs 
+
+Run 24: Using Calculated Tinit = 230.417 Tcool = 0.998189
+Run 24 Init: Value 1430.04 Cost 2.03563 PUs 767 Connection 1428 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 24 ThermalAnnealing: Value 35.4373 Cost 2.43729 PUs 943 Connection 33 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 24 Iterative Improvement: Value 35.4373 Cost 2.43729 PUs 943 Connection 33 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 24 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 25: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 25 Init: Value 1437.13 Cost 2.12835 PUs 787 Connection 1435 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 25 ThermalAnnealing: Value 16.6354 Cost 3.63537 PUs 1161 Connection 13 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 25 Iterative Improvement: Value 16.6354 Cost 3.63537 PUs 1161 Connection 13 Missing 0 Shortfall 0 Penalty 0 MPM 1
+
+Run 26: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 26 Init: Value 1403 Cost 2.00259 PUs 743 Connection 1401 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 26 ThermalAnnealing: Value 32.4164 Cost 1.4164 PUs 469 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 26 Iterative Improvement: Value 32.4164 Cost 1.4164 PUs 469 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 25 is finished (out of 100). Time passed so far is 1 secs 
+Run 26 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 27: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 27 Init: Value 1393 Cost 1.99982 PUs 757 Connection 1391 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 27 ThermalAnnealing: Value 33.7702 Cost 1.77017 PUs 817 Connection 32 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 27 Iterative Improvement: Value 33.7702 Cost 1.77017 PUs 817 Connection 32 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 27 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 29: Using Calculated Tinit = 234.417 Tcool = 0.998431
+Run 29 Init: Value 1405.26 Cost 2.26036 PUs 737 Connection 1403 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 29 ThermalAnnealing: Value 92.9448 Cost 1.94478 PUs 667 Connection 91 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 29 Iterative Improvement: Value 92.9448 Cost 1.94478 PUs 667 Connection 91 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 29 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 28: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 28 Init: Value 1403.86 Cost 1.85691 PUs 704 Connection 1402 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 28 ThermalAnnealing: Value 71.5499 Cost 1.54987 PUs 584 Connection 70 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 28 Iterative Improvement: Value 71.5499 Cost 1.54987 PUs 584 Connection 70 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 28 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 30: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 30 Init: Value 1451.12 Cost 2.11985 PUs 753 Connection 1449 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 30 ThermalAnnealing: Value 51.3969 Cost 2.39689 PUs 706 Connection 49 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 30 Iterative Improvement: Value 51.3969 Cost 2.39689 PUs 706 Connection 49 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 30 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 31: Using Calculated Tinit = 232.417 Tcool = 0.998786
+Run 31 Init: Value 1427.89 Cost 1.88917 PUs 743 Connection 1426 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 31 ThermalAnnealing: Value 39.4877 Cost 0.487731 PUs 303 Connection 39 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 31 Iterative Improvement: Value 39.4869 Cost 0.486928 PUs 302 Connection 39 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 31 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 32: Using Calculated Tinit = 234.417 Tcool = 0.998848
+Run 32 Init: Value 1479.28 Cost 1.77325 PUs 748 Connection 1450 Missing 1 Shortfall 0.120455 Penalty 27.5031 MPM 0.976158
+Run 32 ThermalAnnealing: Value 56.6608 Cost 0.660825 PUs 211 Connection 56 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 32 Iterative Improvement: Value 56.659 Cost 0.659038 PUs 210 Connection 56 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 32 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 33: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 33 Init: Value 1440.02 Cost 2.01874 PUs 749 Connection 1438 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 33 ThermalAnnealing: Value 27.3108 Cost 1.31077 PUs 260 Connection 26 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 33 Iterative Improvement: Value 27.3108 Cost 1.31077 PUs 260 Connection 26 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 33 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 34: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 34 Init: Value 1409.17 Cost 2.16704 PUs 772 Connection 1407 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 34 ThermalAnnealing: Value 47.5492 Cost 2.54924 PUs 681 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 34 Iterative Improvement: Value 47.5492 Cost 2.54924 PUs 681 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 34 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 36: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 36 Init: Value 1430.89 Cost 1.89033 PUs 742 Connection 1429 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 36 ThermalAnnealing: Value 47.1766 Cost 2.17664 PUs 1084 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 36 Iterative Improvement: Value 47.1766 Cost 2.17664 PUs 1084 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+
+Run 35: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 35 Init: Value 1428.1 Cost 2.10161 PUs 764 Connection 1426 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 35 ThermalAnnealing: Value 101.048 Cost 1.04784 PUs 506 Connection 100 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 35 Iterative Improvement: Value 101.048 Cost 1.04784 PUs 506 Connection 100 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 36 is finished (out of 100). Time passed so far is 1 secs 
+Run 35 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 37: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 37 Init: Value 1399.91 Cost 1.91491 PUs 744 Connection 1398 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 37 ThermalAnnealing: Value 32.2285 Cost 2.22849 PUs 1038 Connection 30 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 37 Iterative Improvement: Value 32.2285 Cost 2.22849 PUs 1038 Connection 30 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 37 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 38: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 38 Init: Value 1420.24 Cost 2.24104 PUs 750 Connection 1418 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 38 ThermalAnnealing: Value 58.5484 Cost 1.5484 PUs 487 Connection 57 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 38 Iterative Improvement: Value 58.5484 Cost 1.5484 PUs 487 Connection 57 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 38 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 39: Using Calculated Tinit = 234.417 Tcool = 0.998431
+Run 39 Init: Value 1436.95 Cost 1.94549 PUs 766 Connection 1435 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 39 ThermalAnnealing: Value 11.8996 Cost 1.89957 PUs 354 Connection 10 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 39 Iterative Improvement: Value 11.8996 Cost 1.89957 PUs 354 Connection 10 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 39 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 40: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 40 Init: Value 1382.89 Cost 1.89322 PUs 723 Connection 1381 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 40 ThermalAnnealing: Value 55.2996 Cost 3.29961 PUs 1123 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 40 Iterative Improvement: Value 55.2996 Cost 3.29961 PUs 1123 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 40 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 41: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 41 Init: Value 1429.06 Cost 2.06439 PUs 754 Connection 1427 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 41 ThermalAnnealing: Value 53.8041 Cost 1.80407 PUs 755 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 41 Iterative Improvement: Value 53.8041 Cost 1.80407 PUs 755 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 41 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 43: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 43 Init: Value 1402.02 Cost 2.01748 PUs 767 Connection 1400 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 43 ThermalAnnealing: Value 63.0931 Cost 1.09309 PUs 353 Connection 62 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 43 Iterative Improvement: Value 63.0931 Cost 1.09309 PUs 353 Connection 62 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 43 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 42: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 42 Init: Value 1426.95 Cost 1.95047 PUs 730 Connection 1425 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 42 ThermalAnnealing: Value 36.9387 Cost 1.93871 PUs 1021 Connection 35 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 42 Iterative Improvement: Value 36.9387 Cost 1.93871 PUs 1021 Connection 35 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 42 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 44: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 44 Init: Value 1429.98 Cost 1.98493 PUs 764 Connection 1428 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 44 ThermalAnnealing: Value 31.3888 Cost 3.38881 PUs 1106 Connection 28 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 44 Iterative Improvement: Value 31.3888 Cost 3.38881 PUs 1106 Connection 28 Missing 0 Shortfall 0 Penalty 0 MPM 1
+
+Run 45: Using Calculated Tinit = 234.417 Tcool = 0.99887
+Run 45 Init: Value 1427.18 Cost 2.18496 PUs 755 Connection 1425 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 45 ThermalAnnealing: Value 38.1863 Cost 2.18629 PUs 461 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 45 Iterative Improvement: Value 38.1863 Cost 2.18629 PUs 461 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 44 is finished (out of 100). Time passed so far is 1 secs 
+Run 45 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 46: Using Calculated Tinit = 232.417 Tcool = 0.998432
+Run 46 Init: Value 1379.81 Cost 1.80979 PUs 775 Connection 1378 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 46 ThermalAnnealing: Value 43.1386 Cost 2.13864 PUs 1015 Connection 41 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 46 Iterative Improvement: Value 43.1386 Cost 2.13864 PUs 1015 Connection 41 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 46 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 47: Using Calculated Tinit = 236.417 Tcool = 0.99843
+Run 47 Init: Value 1410.99 Cost 1.98629 PUs 757 Connection 1409 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 47 ThermalAnnealing: Value 44.947 Cost 1.94698 PUs 856 Connection 43 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 47 Iterative Improvement: Value 44.947 Cost 1.94698 PUs 856 Connection 43 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 47 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 48: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 48 Init: Value 1387.09 Cost 2.08987 PUs 762 Connection 1385 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 48 ThermalAnnealing: Value 53.1612 Cost 1.16116 PUs 377 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 48 Iterative Improvement: Value 53.1612 Cost 1.16116 PUs 377 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 48 is finished (out of 100). Time passed so far is 1 secs 
+
+Run 50: Using Calculated Tinit = 236.417 Tcool = 0.99843
+Run 50 Init: Value 1446.09 Cost 2.09148 PUs 723 Connection 1444 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 50 ThermalAnnealing: Value 86.251 Cost 2.25101 PUs 891 Connection 84 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 50 Iterative Improvement: Value 86.251 Cost 2.25101 PUs 891 Connection 84 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 50 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 49: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 49 Init: Value 1421.18 Cost 2.17917 PUs 750 Connection 1419 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 49 ThermalAnnealing: Value 52.1024 Cost 1.10237 PUs 507 Connection 51 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 49 Iterative Improvement: Value 52.1024 Cost 1.10237 PUs 507 Connection 51 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 49 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 51: Using Calculated Tinit = 230.79 Tcool = 0.998189
+Run 51 Init: Value 1382.94 Cost 1.93851 PUs 761 Connection 1381 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 51 ThermalAnnealing: Value 26.3906 Cost 1.39057 PUs 281 Connection 25 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 51 Iterative Improvement: Value 26.3906 Cost 1.39057 PUs 281 Connection 25 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 51 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 52: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 52 Init: Value 1384.98 Cost 1.98405 PUs 747 Connection 1383 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 52 ThermalAnnealing: Value 85.6585 Cost 1.6585 PUs 439 Connection 84 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 52 Iterative Improvement: Value 85.6585 Cost 1.6585 PUs 439 Connection 84 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 52 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 53: Using Calculated Tinit = 236.417 Tcool = 0.99843
+Run 53 Init: Value 1436.04 Cost 2.03877 PUs 710 Connection 1434 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 53 ThermalAnnealing: Value 60.124 Cost 0.124003 PUs 173 Connection 60 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 53 Iterative Improvement: Value 60.124 Cost 0.124003 PUs 173 Connection 60 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 53 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 54: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 54 Init: Value 1417.95 Cost 1.9493 PUs 748 Connection 1416 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 54 ThermalAnnealing: Value 76.5559 Cost 2.55594 PUs 875 Connection 74 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 54 Iterative Improvement: Value 76.5559 Cost 2.55594 PUs 875 Connection 74 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 54 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 55: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 55 Init: Value 1386.89 Cost 1.89273 PUs 729 Connection 1385 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 55 ThermalAnnealing: Value 46.1035 Cost 1.10354 PUs 213 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 55 Iterative Improvement: Value 46.1035 Cost 1.10354 PUs 213 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 55 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 56: Using Calculated Tinit = 236.417 Tcool = 0.99843
+Run 56 Init: Value 1382.13 Cost 2.13346 PUs 764 Connection 1380 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 56 ThermalAnnealing: Value 38.3626 Cost 1.3626 PUs 505 Connection 37 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 56 Iterative Improvement: Value 38.3626 Cost 1.3626 PUs 505 Connection 37 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 56 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 57: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 57 Init: Value 1370.87 Cost 1.87206 PUs 747 Connection 1369 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 57 ThermalAnnealing: Value 55.2218 Cost 1.22175 PUs 420 Connection 54 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 57 Iterative Improvement: Value 55.2218 Cost 1.22175 PUs 420 Connection 54 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 57 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 59: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 59 Init: Value 1409.15 Cost 2.14511 PUs 740 Connection 1407 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 59 ThermalAnnealing: Value 51.8707 Cost 1.87072 PUs 649 Connection 50 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 59 Iterative Improvement: Value 51.8707 Cost 1.87072 PUs 649 Connection 50 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 59 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 58: Using Calculated Tinit = 234.417 Tcool = 0.998431
+Run 58 Init: Value 1383.94 Cost 1.94162 PUs 753 Connection 1382 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 58 ThermalAnnealing: Value 49.8151 Cost 1.8151 PUs 876 Connection 48 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 58 Iterative Improvement: Value 49.8151 Cost 1.8151 PUs 876 Connection 48 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 58 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 60: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 60 Init: Value 1442.02 Cost 2.02275 PUs 737 Connection 1440 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 60 ThermalAnnealing: Value 72.7923 Cost 0.792325 PUs 375 Connection 72 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 60 Iterative Improvement: Value 72.7923 Cost 0.792325 PUs 375 Connection 72 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 60 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 61: Using Calculated Tinit = 234.417 Tcool = 0.998848
+Run 61 Init: Value 1429.98 Cost 1.97584 PUs 724 Connection 1428 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 61 ThermalAnnealing: Value 51.8498 Cost 0.84985 PUs 239 Connection 51 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 61 Iterative Improvement: Value 51.8498 Cost 0.84985 PUs 239 Connection 51 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 61 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 63: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 63 Init: Value 1430.97 Cost 1.97146 PUs 745 Connection 1429 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 63 ThermalAnnealing: Value 53.2508 Cost 3.25082 PUs 1289 Connection 50 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 63 Iterative Improvement: Value 53.2508 Cost 3.25082 PUs 1289 Connection 50 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 63 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 62: Using Calculated Tinit = 230.417 Tcool = 0.998433
+Run 62 Init: Value 1394.04 Cost 2.04003 PUs 745 Connection 1392 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 62 ThermalAnnealing: Value 50.5293 Cost 1.52933 PUs 542 Connection 49 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 62 Iterative Improvement: Value 50.5293 Cost 1.52933 PUs 542 Connection 49 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 62 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 64: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 64 Init: Value 1434.08 Cost 2.08341 PUs 717 Connection 1432 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 64 ThermalAnnealing: Value 80.7661 Cost 2.76608 PUs 904 Connection 78 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 64 Iterative Improvement: Value 80.7661 Cost 2.76608 PUs 904 Connection 78 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 64 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 66: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 66 Init: Value 1380.81 Cost 1.8139 PUs 728 Connection 1379 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 66 ThermalAnnealing: Value 43.699 Cost 3.69897 PUs 1326 Connection 40 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 66 Iterative Improvement: Value 43.699 Cost 3.69897 PUs 1326 Connection 40 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 66 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 65: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 65 Init: Value 1453.07 Cost 2.07011 PUs 741 Connection 1451 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 65 ThermalAnnealing: Value 42.8571 Cost 2.85711 PUs 1055 Connection 40 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 65 Iterative Improvement: Value 42.8571 Cost 2.85711 PUs 1055 Connection 40 Missing 0 Shortfall 0 Penalty 0 MPM 1
+
+Run 67: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 67 Init: Value 1424.07 Cost 2.06717 PUs 760 Connection 1422 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 67 ThermalAnnealing: Value 25.4268 Cost 2.42683 PUs 735 Connection 23 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 67 Iterative Improvement: Value 25.4268 Cost 2.42683 PUs 735 Connection 23 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 65 is finished (out of 100). Time passed so far is 2 secs 
+Run 67 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 68: Using Calculated Tinit = 236.417 Tcool = 0.998186
+Run 68 Init: Value 1399.16 Cost 2.16173 PUs 747 Connection 1397 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 68 ThermalAnnealing: Value 66.8487 Cost 1.84866 PUs 510 Connection 65 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 68 Iterative Improvement: Value 66.8487 Cost 1.84866 PUs 510 Connection 65 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 68 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 69: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 69 Init: Value 1452.16 Cost 2.16065 PUs 754 Connection 1450 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 69 ThermalAnnealing: Value 48.3952 Cost 1.39521 PUs 634 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 69 Iterative Improvement: Value 48.3952 Cost 1.39521 PUs 634 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 69 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 70: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 70 Init: Value 1432.84 Cost 1.84397 PUs 717 Connection 1431 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 70 ThermalAnnealing: Value 56.8727 Cost 1.87273 PUs 926 Connection 55 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 70 Iterative Improvement: Value 56.8727 Cost 1.87273 PUs 926 Connection 55 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 70 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 71: Using Calculated Tinit = 234.417 Tcool = 0.998848
+Run 71 Init: Value 1460.94 Cost 1.94408 PUs 729 Connection 1459 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 71 ThermalAnnealing: Value 63.6625 Cost 1.66246 PUs 633 Connection 62 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 71 Iterative Improvement: Value 63.6587 Cost 1.65875 PUs 632 Connection 62 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 71 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 72: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 72 Init: Value 1417.05 Cost 2.0532 PUs 781 Connection 1415 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 72 ThermalAnnealing: Value 74.287 Cost 1.28702 PUs 498 Connection 73 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 72 Iterative Improvement: Value 74.287 Cost 1.28702 PUs 498 Connection 73 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 72 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 74: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 74 Init: Value 1466.77 Cost 1.76764 PUs 722 Connection 1465 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 74 ThermalAnnealing: Value 48.2275 Cost 3.22749 PUs 1086 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 74 Iterative Improvement: Value 48.2275 Cost 3.22749 PUs 1086 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 74 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 73: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 73 Init: Value 1405.08 Cost 2.07862 PUs 753 Connection 1403 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 73 ThermalAnnealing: Value 61.1897 Cost 1.18972 PUs 613 Connection 60 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 73 Iterative Improvement: Value 61.1897 Cost 1.18972 PUs 613 Connection 60 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 73 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 76: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 76 Init: Value 1424.25 Cost 2.25272 PUs 777 Connection 1422 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 76 ThermalAnnealing: Value 40.1209 Cost 3.1209 PUs 802 Connection 37 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 76 Iterative Improvement: Value 40.1209 Cost 3.1209 PUs 802 Connection 37 Missing 0 Shortfall 0 Penalty 0 MPM 1
+
+Run 75: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 75 Init: Value 1406.73 Cost 1.72687 PUs 719 Connection 1405 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 75 ThermalAnnealing: Value 56.7103 Cost 2.71032 PUs 762 Connection 54 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 75 Iterative Improvement: Value 56.7103 Cost 2.71032 PUs 762 Connection 54 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 76 is finished (out of 100). Time passed so far is 2 secs 
+Run 75 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 77: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 77 Init: Value 1397.91 Cost 1.90775 PUs 731 Connection 1396 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 77 ThermalAnnealing: Value 46.8357 Cost 1.83566 PUs 819 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 77 Iterative Improvement: Value 46.8357 Cost 1.83566 PUs 819 Connection 45 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 77 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 78: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 78 Init: Value 1425.14 Cost 2.13678 PUs 721 Connection 1423 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 78 ThermalAnnealing: Value 48.5304 Cost 1.53044 PUs 518 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 78 Iterative Improvement: Value 48.5304 Cost 1.53044 PUs 518 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 78 is finished (out of 100). Time passed so far is 2 secs 
+
+Run 79: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 79 Init: Value 1390.13 Cost 2.12706 PUs 791 Connection 1388 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 79 ThermalAnnealing: Value 60.6197 Cost 2.61971 PUs 688 Connection 58 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 79 Iterative Improvement: Value 60.6197 Cost 2.61971 PUs 688 Connection 58 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 79 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 80: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 80 Init: Value 1428.2 Cost 2.2017 PUs 769 Connection 1426 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 80 ThermalAnnealing: Value 60.4806 Cost 1.4806 PUs 526 Connection 59 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 80 Iterative Improvement: Value 60.4806 Cost 1.4806 PUs 526 Connection 59 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 80 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 83: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 83 Init: Value 1400.27 Cost 2.26939 PUs 757 Connection 1398 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 83 ThermalAnnealing: Value 32.3779 Cost 1.37789 PUs 281 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 83 Iterative Improvement: Value 32.3779 Cost 1.37789 PUs 281 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 83 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 82: Using Calculated Tinit = 234.417 Tcool = 0.998431
+Run 82 Init: Value 1419.88 Cost 1.88234 PUs 731 Connection 1418 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 82 ThermalAnnealing: Value 41.9537 Cost 2.95371 PUs 747 Connection 39 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 82 Iterative Improvement: Value 41.9537 Cost 2.95371 PUs 747 Connection 39 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 82 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 84: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 84 Init: Value 1413.95 Cost 1.94935 PUs 730 Connection 1412 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 84 ThermalAnnealing: Value 33.1592 Cost 2.15915 PUs 950 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 84 Iterative Improvement: Value 33.1592 Cost 2.15915 PUs 950 Connection 31 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 84 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 81: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 81 Init: Value 1404.92 Cost 1.92341 PUs 738 Connection 1403 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 81 ThermalAnnealing: Value 25.3922 Cost 2.3922 PUs 709 Connection 23 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 81 Iterative Improvement: Value 25.3922 Cost 2.3922 PUs 709 Connection 23 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 81 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 85: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 85 Init: Value 1429.92 Cost 1.91913 PUs 726 Connection 1428 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 85 ThermalAnnealing: Value 37.0334 Cost 3.03337 PUs 921 Connection 34 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 85 Iterative Improvement: Value 37.0334 Cost 3.03337 PUs 921 Connection 34 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 85 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 87: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 87 Init: Value 1443.1 Cost 2.10289 PUs 748 Connection 1441 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 87 ThermalAnnealing: Value 44.7195 Cost 1.71954 PUs 815 Connection 43 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 87 Iterative Improvement: Value 44.7195 Cost 1.71954 PUs 815 Connection 43 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 87 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 86: Using Calculated Tinit = 232.417 Tcool = 0.99883
+Run 86 Init: Value 1413.78 Cost 1.78105 PUs 730 Connection 1412 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 86 ThermalAnnealing: Value 25.3609 Cost 2.36092 PUs 670 Connection 23 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 86 Iterative Improvement: Value 25.3609 Cost 2.36092 PUs 670 Connection 23 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 86 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 88: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 88 Init: Value 1424.05 Cost 2.04816 PUs 759 Connection 1422 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 88 ThermalAnnealing: Value 82.8495 Cost 2.84951 PUs 1030 Connection 80 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 88 Iterative Improvement: Value 82.8495 Cost 2.84951 PUs 1030 Connection 80 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 88 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 89: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 89 Init: Value 1378.71 Cost 1.71203 PUs 756 Connection 1377 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 89 ThermalAnnealing: Value 32.4271 Cost 2.42711 PUs 684 Connection 30 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 89 Iterative Improvement: Value 32.4271 Cost 2.42711 PUs 684 Connection 30 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 89 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 90: Using Calculated Tinit = 234.417 Tcool = 0.998786
+Run 90 Init: Value 1408.06 Cost 2.05828 PUs 762 Connection 1406 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 90 ThermalAnnealing: Value 34.5653 Cost 2.56527 PUs 621 Connection 32 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 90 Iterative Improvement: Value 34.5653 Cost 2.56527 PUs 621 Connection 32 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 90 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 91: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 91 Init: Value 1410.16 Cost 2.16334 PUs 749 Connection 1408 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 91 ThermalAnnealing: Value 31.5104 Cost 2.5104 PUs 1181 Connection 29 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 91 Iterative Improvement: Value 31.5104 Cost 2.5104 PUs 1181 Connection 29 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 91 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 92: Using Calculated Tinit = 232.417 Tcool = 0.998799
+Run 92 Init: Value 1447.94 Cost 1.94248 PUs 718 Connection 1446 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 92 ThermalAnnealing: Value 71.9089 Cost 1.90892 PUs 603 Connection 70 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 92 Iterative Improvement: Value 71.9071 Cost 1.90713 PUs 602 Connection 70 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 92 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 93: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 93 Init: Value 1407.21 Cost 2.20923 PUs 753 Connection 1405 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 93 ThermalAnnealing: Value 38.3695 Cost 2.36951 PUs 617 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 93 Iterative Improvement: Value 38.3695 Cost 2.36951 PUs 617 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 93 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 94: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 94 Init: Value 1402.98 Cost 1.98053 PUs 738 Connection 1401 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 94 ThermalAnnealing: Value 49.2258 Cost 2.22583 PUs 996 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 94 Iterative Improvement: Value 49.2258 Cost 2.22583 PUs 996 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 94 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 95: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 95 Init: Value 1393.06 Cost 2.06173 PUs 740 Connection 1391 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 95 ThermalAnnealing: Value 48.2848 Cost 1.28477 PUs 507 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 95 Iterative Improvement: Value 48.2848 Cost 1.28477 PUs 507 Connection 47 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 95 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 96: Using Calculated Tinit = 232.417 Tcool = 0.998849
+Run 96 Init: Value 1369.06 Cost 2.05697 PUs 742 Connection 1367 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 96 ThermalAnnealing: Value 38.0036 Cost 2.00357 PUs 380 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 96 Iterative Improvement: Value 38.0036 Cost 2.00357 PUs 380 Connection 36 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 96 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 97: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 97 Init: Value 1412.11 Cost 2.11156 PUs 745 Connection 1410 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 97 ThermalAnnealing: Value 107.316 Cost 1.31571 PUs 556 Connection 106 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 97 Iterative Improvement: Value 107.316 Cost 1.31571 PUs 556 Connection 106 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 97 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 100: Using Calculated Tinit = 234.417 Tcool = 0.998187
+Run 100 Init: Value 1436.19 Cost 2.18621 PUs 745 Connection 1434 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 100 ThermalAnnealing: Value 26.7951 Cost 2.79513 PUs 825 Connection 24 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 100 Iterative Improvement: Value 26.7951 Cost 2.79513 PUs 825 Connection 24 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 100 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 98: Using Calculated Tinit = 232.417 Tcool = 0.998188
+Run 98 Init: Value 1481.94 Cost 1.94341 PUs 695 Connection 1480 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 98 ThermalAnnealing: Value 54.0245 Cost 1.02454 PUs 455 Connection 53 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 98 Iterative Improvement: Value 54.0245 Cost 1.02454 PUs 455 Connection 53 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 98 is finished (out of 100). Time passed so far is 3 secs 
+
+Run 99: Using Calculated Tinit = 232.417 Tcool = 0.998786
+Run 99 Init: Value 1460.34 Cost 2.33778 PUs 760 Connection 1458 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 99 ThermalAnnealing: Value 53.1461 Cost 1.1461 PUs 410 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 99 Iterative Improvement: Value 53.1461 Cost 1.1461 PUs 410 Connection 52 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 99 is finished (out of 100). Time passed so far is 3 secs 
+
+Best run: 39 Best score: 11.8996
+
+Run 39: Using Calculated Tinit = 234.417 Tcool = 0.998431
+Run 39 Init: Value 1436.95 Cost 1.94549 PUs 766 Connection 1435 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 39 ThermalAnnealing: Value 11.8996 Cost 1.89957 PUs 354 Connection 10 Missing 0 Shortfall 0 Penalty 0 MPM 1
+Run 39 Iterative Improvement: Value 11.8996 Cost 1.89957 PUs 354 Connection 10 Missing 0 Shortfall 0 Penalty 0 MPM 1
+
+Best solution is run 39
+Time passed so far is 3 secs 
+
+              The End 
